@@ -1,2 +1,2 @@
-# .dotfiles
+# Hyprland .dotfiles
 Hyprland configuration 
